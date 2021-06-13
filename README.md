@@ -23,4 +23,4 @@ What actually happens when the bot is autonomously driving?<br>
 3) it then returns the next direction as a UDP packet to the RPi
 4) the RPi simple controls the motors according to the recieved packet.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/42698524/103199813-baab6b00-4911-11eb-9a07-6b6a7b0f4f4a.gif)
+![](https://user-images.githubusercontent.com/42698524/103199813-baab6b00-4911-11eb-9a07-6b6a7b0f4f4a.gif)
